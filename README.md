@@ -1,2 +1,2 @@
 # QuantumArt
-Some pretty neat "Art" created with quantum fractal interference patterns. 
+Some pretty neat "Art" created with quantum fractal interference patterns. -Made with Qiskit
